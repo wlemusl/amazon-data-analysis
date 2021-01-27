@@ -11,4 +11,4 @@ The unique json.gz file is:
 1. "db amazon original.json.gz" - This is the original and initial Amazon Review Data (2018), specifically the one that is in "Small" subsets for experimentation, the Movies and TV category, the 5-core subset of data, extracted from: https://nijianmo.github.io/amazon/index.html
 
 The unique csv file is:
-1. "db amazon mineros 2" - 
+1. "db amazon mineros 2" - This is the cleaned and preprocessed database resulting from "1. Preprocessing.ipynb".
