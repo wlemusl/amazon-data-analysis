@@ -1,5 +1,5 @@
 # amazon-data-analysis
-This is a project developed by Mineros DataLab aiming to (1) explore the original Amazon Review Data (2018) database, (2) clean and preprocess its numeric and textual data to generate a cleaned database, which serves as a high-quality input for a recommender system, and (3) analyze and find patterns of the cleaned database, using Python, Pandas, Numpy, and NLTK.
+This is a project developed by Mineros DataLab aiming to (1) explore the original Amazon Review Data 2018 database, (2) clean and preprocess its numeric and textual data to generate a cleaned database, which serves as a high-quality input for a recommender system, and (3) analyze and find patterns of the cleaned database, using Python, Pandas, Numpy, and NLTK.
 
 This repository contains two ipynb files. Besides, it should also have two databases, one as a json.gz file and the other one as a csv file, but because of their sizes, it is not possible to upload these files here. But do not worry, we will detail how to get these two datasets!
 
