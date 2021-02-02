@@ -8,7 +8,7 @@ The two ipynb files are:
 2. "2. Data analysis.ipynb" - This code is used to analyze and find interesting indicators of "db amazon mineros 2.csv".
 
 The unique json.gz file should be:
-1. "db amazon original.json.gz" - This is the original Amazon Review Data (2018), specifically, the one that is in "Small" subsets for experimentation, the Movies and TV category, the 5-core subset of data, extracted from: https://nijianmo.github.io/amazon/index.html. It has 3,410,019 records and 11 columns.
+1. "db amazon original.json.gz" - This is the original Amazon Review Data (2018), specifically, the one that is in "Small" subsets for experimentation, the Movies and TV category, the 5-core subset of data, extracted from: https://nijianmo.github.io/amazon/index.html. It has 3,410,019 records and 12 columns.
 
 The unique csv file should be:
 1. "db amazon mineros 2" - This is the cleaned and preprocessed database resulting from "1. Preprocessing.ipynb". It has 500,000 records and 6 columns.
